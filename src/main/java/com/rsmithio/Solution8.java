@@ -1,9 +1,10 @@
 package com.rsmithio;
 
 import java.time.DayOfWeek;
+import java.time.LocalDate;
 import java.util.Scanner;
 
-import java.time.LocalDate;
+
 
 
 public class Solution8 {
