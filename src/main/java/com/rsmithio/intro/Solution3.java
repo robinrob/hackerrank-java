@@ -1,4 +1,4 @@
-package com.rsmithio;
+package com.rsmithio.intro;
 
 import java.util.*;
 import java.util.stream.Collectors;

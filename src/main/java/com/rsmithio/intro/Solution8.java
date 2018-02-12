@@ -1,4 +1,4 @@
-package com.rsmithio;
+package com.rsmithio.intro;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
@@ -10,10 +10,6 @@ import java.util.Scanner;
 public class Solution8 {
 
     private static String getDay(String day, String month, String year) {
-        /*
-        * Write your code here.
-        */
-
         DayOfWeek dayOfWeek = LocalDate.of(Integer.valueOf(year), Integer.valueOf(month), Integer.valueOf(day)).getDayOfWeek();
         return dayOfWeek.toString();
     }

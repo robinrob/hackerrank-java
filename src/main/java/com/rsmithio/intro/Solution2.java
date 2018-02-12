@@ -1,4 +1,4 @@
-package com.rsmithio;
+package com.rsmithio.intro;
 
 import java.io.*;
 import java.util.*;

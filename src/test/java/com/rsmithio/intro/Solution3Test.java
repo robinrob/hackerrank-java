@@ -1,7 +1,9 @@
-package com.rsmithio;
+package com.rsmithio.intro;
 
 
 import java.util.*;
+
+import com.rsmithio.intro.Solution3;
 import org.junit.Assert;
 import org.junit.Test;
 
